@@ -1,0 +1,170 @@
+﻿source,target,relation
+Internet,Lập trình web,part_of
+World Wide Web,Internet,part_of
+Giao thức HTTPS,Internet,part_of
+Giao thức HTTPS,Bảo mật web,prerequisite
+Tên miền/ Định danh,Internet,part_of
+Không gian lưu trữ,Internet,part_of
+Frontend,Lập trình web,part_of
+HTML,Frontend,part_of
+HTML,CSS,prerequisite
+HTML,Javascript,prerequisite
+Thẻ cấu trúc,HTML,part_of
+Thuộc tính,HTML,part_of
+Thiết kế biểu mẫu,HTML,part_of
+Thiết kế biểu mẫu,Phương thức truyền dữ liệu,uses
+Bố cục của trang web,HTML,part_of
+Phương thức truyền dữ liệu,HTML,part_of
+Phương thức truyền dữ liệu,HTTP & Session,uses
+CSS,Frontend,part_of
+Cú pháp (CSS),CSS,part_of
+Selectors,CSS,part_of
+Định dạng trong CSS,CSS,part_of
+CSS Value & Unit,CSS,part_of
+CSS Specificity,CSS,part_of
+CSS Specificity,Cascading,influences
+Cascading,CSS,part_of
+Flexbox/Grid,Bố cục của trang web,part_of
+Flexbox/Grid,CSS,part_of
+Javascript,Frontend,part_of
+Javascript,DOM,prerequisite
+Javascript,React/ Angular,prerequisite
+Javascript,JSON,uses
+Cú pháp (Javascript),Javascript,part_of
+Datatype,Javascript,part_of
+Statement,Javascript,part_of
+CallBack Function,Javascript,part_of
+Objects,Javascript,part_of
+Arrays,Javascript,part_of
+DOM,Frontend,part_of
+JSON,Javascript,part_of
+Local Storage,Javascript,part_of
+Bất đồng bộ Async/Await & Promise,Javascript,part_of
+Bất đồng bộ Async/Await & Promise,Restful API,prerequisite
+React/ Angular,Frontend,part_of
+React/ Angular,DOM,uses
+Backend,Lập trình web,part_of
+PHP,Backend,part_of
+Căn bản PHP,PHP,part_of
+Căn bản PHP,Lập trình hướng đối tượng OOP PHP,prerequisite
+Lập trình hướng đối tượng OOP PHP,PHP,part_of
+Lập trình hướng đối tượng OOP PHP,PHP Lavarel,prerequisite
+HTTP & Session,PHP,part_of
+HTTP & Session,Restful API,prerequisite
+Bảo mật web,PHP,part_of
+Restful API,PHP,part_of
+Restful API,JSON,uses
+Restful API,HTTP & Session,uses
+PHP Lavarel,PHP,part_of
+Kiểm thử & Triển khai,PHP,part_of
+CSDL (Backend),Backend,part_of
+CSDL (Backend),SQL,uses
+Mô hình quan hệ,CSDL,part_of
+Mô hình quan hệ,Thuộc tính và miền giá trị,prerequisite
+Mô hình quan hệ,Đại số quan hệ,prerequisite
+Thuộc tính và miền giá trị,CSDL,part_of
+Thuộc tính và miền giá trị,Bộ,prerequisite
+Bộ,CSDL,part_of
+Bộ,Thể hiện và lược đồ,prerequisite
+Thể hiện và lược đồ,CSDL,part_of
+Khóa,CSDL,part_of
+Khóa,Ràng buộc toàn vẹn trên CSDL quan hệ,prerequisite
+Ràng buộc toàn vẹn trên CSDL quan hệ,CSDL,part_of
+Ràng buộc toàn vẹn trên CSDL quan hệ,Bảo mật web,influences
+Cập nhật trên CSDL quan hệ,CSDL,part_of
+Sự thông thương giữa các quan hệ,CSDL,part_of
+Đại số quan hệ,CSDL,part_of
+Đại số quan hệ,SQL,prerequisite
+Giao dịch Transaction & ACID,CSDL,part_of
+Giao dịch Transaction & ACID,Cập nhật trên CSDL quan hệ,uses
+Giao dịch Transaction & ACID,Bảo mật web,prerequisite
+SQL,CSDL,part_of
+SQL,CSDL (Backend),prerequisite
+Ngôn ngữ định nghĩa dữ liệu DDL,SQL,part_of
+Ngôn ngữ thao tác dữ liệu DML,SQL,part_of
+Truy vấn căn bản SELECT,SQL,part_of
+Truy vấn căn bản SELECT,Truy vấn nâng cao JOIN,prerequisite
+Truy vấn nâng cao JOIN,SQL,part_of
+Truy vấn nâng cao JOIN,Gom nhóm và kết tập,prerequisite
+Gom nhóm và kết tập,SQL,part_of
+Ngôn ngữ điều khiển dữ liệu DCL,SQL,part_of
+Phụ thuộc dữ liệu,CSDL,part_of
+Dư thừa dữ liệu,Phụ thuộc dữ liệu,part_of
+Phụ thuộc hàm,Phụ thuộc dữ liệu,part_of
+Phụ thuộc hàm,Bao đóng,prerequisite
+Bao đóng,Phụ thuộc dữ liệu,part_of
+Bao đóng,Phủ tối tiểu,prerequisite
+Phủ tối tiểu,Phụ thuộc dữ liệu,part_of
+Phủ tối tiểu,Chuẩn hóa dữ liệu,prerequisite
+Chuẩn hóa dữ liệu,CSDL,part_of
+1NF,Chuẩn hóa dữ liệu,part_of
+1NF,2NF,prerequisite
+1NF,3NF,prerequisite
+1NF,BCNF,prerequisite
+2NF,Chuẩn hóa dữ liệu,part_of
+2NF,3NF,prerequisite
+2NF,BCNF,prerequisite
+3NF,Chuẩn hóa dữ liệu,part_of
+BCNF,Chuẩn hóa dữ liệu,part_of
+Tổng quan Trí tuệ nhân tạo,Trí tuệ nhân tạo,part_of
+Tổng quan Trí tuệ nhân tạo,Machine Learning,prerequisite
+Tác tử thông minh,Tổng quan Trí tuệ nhân tạo,part_of
+Không gian trạng thái,Tổng quan Trí tuệ nhân tạo,part_of
+Không gian trạng thái,Tìm kiếm mù,prerequisite
+Tìm kiếm mù,Trí tuệ nhân tạo,part_of
+Tìm kiếm mù,Tìm kiếm kinh nghiệm,prerequisite
+Tìm kiếm chiều rộng BFS,Tìm kiếm mù,part_of
+Tìm kiếm chiều sâu DFS,Tìm kiếm mù,part_of
+Tìm kiếm chi phí cực tiểu UCS,Tìm kiếm mù,part_of
+Tìm kiếm kinh nghiệm,Trí tuệ nhân tạo,part_of
+Hàm Heuristic,Tìm kiếm kinh nghiệm,part_of
+Hàm Heuristic,Thuật toán A*,prerequisite
+Thuật toán A*,Tìm kiếm kinh nghiệm,part_of
+Tìm kiếm tham lam Greedy Search,Tìm kiếm kinh nghiệm,part_of
+Tìm kiếm cục bộ & Tối ưu,Trí tuệ nhân tạo,part_of
+Leo đồi,Tìm kiếm cục bộ & Tối ưu,part_of
+Thuật toán di truyền,Tìm kiếm cục bộ & Tối ưu,part_of
+Thuật toán di truyền,Mạng nơ-ron,uses
+Tìm kiếm đối kháng,Trí tuệ nhân tạo,part_of
+Minimax,Tìm kiếm đối kháng,part_of
+Minimax,Cắt tỉa Alpha-Beta,prerequisite
+Cắt tỉa Alpha-Beta,Tìm kiếm đối kháng,part_of
+Biểu diễn tri thức & Suy luận,Trí tuệ nhân tạo,part_of
+Logic mệnh đề,Biểu diễn tri thức & Suy luận,part_of
+Logic mệnh đề,Logic bậc nhất,prerequisite
+Logic mệnh đề,Cây quyết định,influences
+Logic bậc nhất,Biểu diễn tri thức & Suy luận,part_of
+Suy luận tiến/lùi,Biểu diễn tri thức & Suy luận,part_of
+Tổng quan & Dữ liệu,Machine Learning,part_of
+Tiền xử lý dữ liệu,Tổng quan & Dữ liệu,part_of
+Tiền xử lý dữ liệu,Học có giám sát,prerequisite
+Tiền xử lý dữ liệu,Gom cụm,prerequisite
+Trích xuất đặc trưng,Tổng quan & Dữ liệu,part_of
+Chuẩn hóa,Tổng quan & Dữ liệu,part_of
+Chuẩn hóa,KNN,influences
+Học có giám sát,Machine Learning,part_of
+Hồi quy,Học có giám sát,part_of
+Hồi quy,Mạng nơ-ron,prerequisite
+Hồi quy tuyến tính,Hồi quy,part_of
+Hồi quy Logistic,Hồi quy,part_of
+Hồi quy Logistic,Phân lớp,prerequisite
+Phân lớp,Học có giám sát,part_of
+Phân lớp,Ma trận nhầm lẫn,uses
+KNN,Phân lớp,part_of
+SVM,Phân lớp,part_of
+Cây quyết định,Phân lớp,part_of
+Cây quyết định,Random Forest,prerequisite
+Random Forest,Phân lớp,part_of
+Học không giám sát,Machine Learning,part_of
+Gom cụm,Học không giám sát,part_of
+K-Means,Gom cụm,part_of
+DBSCAN,Gom cụm,part_of
+Học sâu,Machine Learning,part_of
+Mạng nơ-ron,Học sâu,part_of
+Mạng nơ-ron tích chập,Mạng nơ-ron,part_of
+Mạng hồi quy,Mạng nơ-ron,part_of
+Đánh giá mô hình,Machine Learning,part_of
+Xác thực chéo Cross Validation,Đánh giá mô hình,part_of
+Xác thực chéo Cross Validation,Quá khớp,influences
+Ma trận nhầm lẫn,Đánh giá mô hình,part_of
+Quá khớp,Đánh giá mô hình,part_of

@@ -1,0 +1,120 @@
+﻿id,label,subject,type,level
+Lập trình web,Lập trình web,Lập trình web,Môn học,0
+CSDL,CSDL,CSDL,Môn học,0
+Trí tuệ nhân tạo,Trí tuệ nhân tạo,Trí tuệ nhân tạo,Môn học,0
+Machine Learning,Machine Learning,Machine Learning,Môn học,0
+Internet,Internet,Lập trình web,Kiến thức,1
+World Wide Web,World Wide Web,Lập trình web,Kiến thức,2
+Giao thức HTTPS,Giao thức HTTPS,Lập trình web,Kiến thức,2
+Tên miền/ Định danh,Tên miền/ Định danh (Domain),Lập trình web,Kiến thức,2
+Không gian lưu trữ,Không gian lưu trữ (Hosting),Lập trình web,Kiến thức,2
+Frontend,Frontend,Lập trình web,Kiến thức,1
+HTML,HTML,Lập trình web,Kiến thức,2
+Thẻ cấu trúc,Thẻ cấu trúc,Lập trình web,Kiến thức,3
+Thuộc tính,Thuộc tính,Lập trình web,Kiến thức,3
+Thiết kế biểu mẫu,Thiết kế biểu mẫu (Forms),Lập trình web,Kiến thức,3
+Bố cục của trang web,Bố cục của trang web (Layout),Lập trình web,Kiến thức,3
+Phương thức truyền dữ liệu,Phương thức truyền dữ liệu,Lập trình web,Kiến thức,3
+CSS,CSS,Lập trình web,Kiến thức,2
+Cú pháp (CSS),Cú pháp,Lập trình web,Kiến thức,3
+Selectors,Selectors,Lập trình web,Kiến thức,3
+Định dạng trong CSS,Định dạng trong CSS,Lập trình web,Kiến thức,3
+CSS Value & Unit,CSS Value & Unit,Lập trình web,Kiến thức,3
+CSS Specificity,CSS Specificity,Lập trình web,Kiến thức,3
+Cascading,Cascading,Lập trình web,Kiến thức,3
+Flexbox/Grid,Flexbox/Grid,Lập trình web,Kiến thức,3
+Javascript,Javascript,Lập trình web,Kiến thức,2
+Cú pháp (Javascript),Cú pháp,Lập trình web,Kiến thức,3
+Datatype,Datatype,Lập trình web,Kiến thức,3
+Statement,Statement,Lập trình web,Kiến thức,3
+CallBack Function,CallBack Function,Lập trình web,Kiến thức,3
+Objects,Objects,Lập trình web,Kiến thức,3
+Arrays,Arrays,Lập trình web,Kiến thức,3
+DOM,DOM,Lập trình web,Kiến thức,3
+JSON,JSON,Lập trình web,Kiến thức,3
+Local Storage,Local Storage,Lập trình web,Kiến thức,3
+Bất đồng bộ Async/Await & Promise,Bất đồng bộ Async/Await & Promise,Lập trình web,Kiến thức,3
+React/ Angular,React/ Angular,Lập trình web,Kiến thức,2
+Backend,Backend,Lập trình web,Kiến thức,1
+PHP,PHP,Lập trình web,Kiến thức,2
+Căn bản PHP,Căn bản PHP,Lập trình web,Kiến thức,3
+Lập trình hướng đối tượng OOP PHP,Lập trình hướng đối tượng OOP PHP,Lập trình web,Kiến thức,3
+HTTP & Session,HTTP & Session,Lập trình web,Kiến thức,3
+Bảo mật web,Bảo mật web,Lập trình web,Kiến thức,3
+Restful API,Restful API,Lập trình web,Kiến thức,3
+PHP Lavarel,PHP Lavarel,Lập trình web,Kiến thức,3
+Kiểm thử & Triển khai,Kiểm thử & Triển khai,Lập trình web,Kiến thức,3
+CSDL (Backend),CSDL,Lập trình web,Kiến thức,2
+Mô hình quan hệ,Mô hình quan hệ,CSDL,Kiến thức,1
+Thuộc tính và miền giá trị,Thuộc tính và miền giá trị,CSDL,Kiến thức,1
+Bộ,Bộ,CSDL,Kiến thức,1
+Thể hiện và lược đồ,Thể hiện và lược đồ,CSDL,Kiến thức,1
+Khóa,Khóa (key),CSDL,Kiến thức,1
+Ràng buộc toàn vẹn trên CSDL quan hệ,Ràng buộc toàn vẹn trên CSDL quan hệ,CSDL,Kiến thức,1
+Cập nhật trên CSDL quan hệ,Cập nhật trên CSDL quan hệ,CSDL,Kiến thức,1
+Sự thông thương giữa các quan hệ,Sự thông thương giữa các quan hệ,CSDL,Kiến thức,1
+Đại số quan hệ,Đại số quan hệ,CSDL,Kiến thức,1
+Giao dịch Transaction & ACID,Giao dịch Transaction & ACID,CSDL,Kiến thức,1
+SQL,SQL,CSDL,Kiến thức,1
+Ngôn ngữ định nghĩa dữ liệu DDL,Ngôn ngữ định nghĩa dữ liệu DDL,CSDL,Kiến thức,2
+Ngôn ngữ thao tác dữ liệu DML,Ngôn ngữ thao tác dữ liệu DML,CSDL,Kiến thức,2
+Truy vấn căn bản SELECT,Truy vấn căn bản SELECT,CSDL,Kiến thức,2
+Truy vấn nâng cao JOIN,Truy vấn nâng cao JOIN,CSDL,Kiến thức,2
+Gom nhóm và kết tập,Gom nhóm và kết tập,CSDL,Kiến thức,2
+Ngôn ngữ điều khiển dữ liệu DCL,Ngôn ngữ điều khiển dữ liệu DCL,CSDL,Kiến thức,2
+Phụ thuộc dữ liệu,Phụ thuộc dữ liệu,CSDL,Kiến thức,1
+Dư thừa dữ liệu,Dư thừa dữ liệu,CSDL,Kiến thức,2
+Phụ thuộc hàm,Phụ thuộc hàm,CSDL,Kiến thức,2
+Bao đóng,Bao đóng,CSDL,Kiến thức,2
+Phủ tối tiểu,Phủ tối tiểu,CSDL,Kiến thức,2
+Chuẩn hóa dữ liệu,Chuẩn hóa dữ liệu,CSDL,Kiến thức,1
+1NF,1NF,CSDL,Kiến thức,2
+2NF,2NF,CSDL,Kiến thức,2
+3NF,3NF,CSDL,Kiến thức,2
+BCNF,BCNF,CSDL,Kiến thức,2
+Tổng quan Trí tuệ nhân tạo,Tổng quan Trí tuệ nhân tạo,Trí tuệ nhân tạo,Kiến thức,1
+Tác tử thông minh,Tác tử thông minh,Trí tuệ nhân tạo,Kiến thức,2
+Không gian trạng thái,Không gian trạng thái,Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm mù,Tìm kiếm mù,Trí tuệ nhân tạo,Kiến thức,1
+Tìm kiếm chiều rộng BFS,Tìm kiếm chiều rộng BFS,Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm chiều sâu DFS,Tìm kiếm chiều sâu DFS,Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm chi phí cực tiểu UCS,Tìm kiếm chi phí cực tiểu UCS,Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm kinh nghiệm,Tìm kiếm kinh nghiệm,Trí tuệ nhân tạo,Kiến thức,1
+Hàm Heuristic,Hàm Heuristic,Trí tuệ nhân tạo,Kiến thức,2
+Thuật toán A*,Thuật toán A*,Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm tham lam Greedy Search,Tìm kiếm tham lam Greedy Search,Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm cục bộ & Tối ưu,Tìm kiếm cục bộ & Tối ưu,Trí tuệ nhân tạo,Kiến thức,1
+Leo đồi,Leo đồi (Hill Climbing),Trí tuệ nhân tạo,Kiến thức,2
+Thuật toán di truyền,Thuật toán di truyền (Genetic Algorithm),Trí tuệ nhân tạo,Kiến thức,2
+Tìm kiếm đối kháng,Tìm kiếm đối kháng,Trí tuệ nhân tạo,Kiến thức,1
+Minimax,Minimax,Trí tuệ nhân tạo,Kiến thức,2
+Cắt tỉa Alpha-Beta,Cắt tỉa Alpha-Beta,Trí tuệ nhân tạo,Kiến thức,2
+Biểu diễn tri thức & Suy luận,Biểu diễn tri thức & Suy luận,Trí tuệ nhân tạo,Kiến thức,1
+Logic mệnh đề,Logic mệnh đề,Trí tuệ nhân tạo,Kiến thức,2
+Logic bậc nhất,Logic bậc nhất,Trí tuệ nhân tạo,Kiến thức,2
+Suy luận tiến/lùi,Suy luận tiến/lùi (Chaining),Trí tuệ nhân tạo,Kiến thức,2
+Tổng quan & Dữ liệu,Tổng quan & Dữ liệu,Machine Learning,Kiến thức,1
+Tiền xử lý dữ liệu,Tiền xử lý dữ liệu,Machine Learning,Kiến thức,2
+Trích xuất đặc trưng,Trích xuất đặc trưng,Machine Learning,Kiến thức,2
+Chuẩn hóa,Chuẩn hóa (Normalization),Machine Learning,Kiến thức,2
+Học có giám sát,Học có giám sát,Machine Learning,Kiến thức,1
+Hồi quy,Hồi quy (Regression),Machine Learning,Kiến thức,2
+Hồi quy tuyến tính,Hồi quy tuyến tính (Linear Regression),Machine Learning,Kiến thức,3
+Hồi quy Logistic,Hồi quy Logistic (Logistic Regression),Machine Learning,Kiến thức,3
+Phân lớp,Phân lớp (Classification),Machine Learning,Kiến thức,2
+KNN,KNN,Machine Learning,Kiến thức,3
+SVM,SVM,Machine Learning,Kiến thức,3
+Cây quyết định,Cây quyết định (Decision Tree),Machine Learning,Kiến thức,3
+Random Forest,Random Forest,Machine Learning,Kiến thức,3
+Học không giám sát,Học không giám sát,Machine Learning,Kiến thức,1
+Gom cụm,Gom cụm (Clustering),Machine Learning,Kiến thức,2
+K-Means,K-Means,Machine Learning,Kiến thức,3
+DBSCAN,DBSCAN,Machine Learning,Kiến thức,3
+Học sâu,Học sâu (Deep Learning),Machine Learning,Kiến thức,1
+Mạng nơ-ron,Mạng nơ-ron (Neural Network),Machine Learning,Kiến thức,2
+Mạng nơ-ron tích chập,Mạng nơ-ron tích chập (CNN),Machine Learning,Kiến thức,3
+Mạng hồi quy,Mạng hồi quy (RNN),Machine Learning,Kiến thức,3
+Đánh giá mô hình,Đánh giá mô hình,Machine Learning,Kiến thức,1
+Xác thực chéo Cross Validation,Xác thực chéo Cross Validation,Machine Learning,Kiến thức,2
+Ma trận nhầm lẫn,Ma trận nhầm lẫn (Confusion Matrix),Machine Learning,Kiến thức,2
+Quá khớp,Quá khớp (Overfitting),Machine Learning,Kiến thức,2
