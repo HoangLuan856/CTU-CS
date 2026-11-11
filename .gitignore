@@ -1,3 +1,5 @@
 secret.key
 knowledge.db
 uploads/
+__pycache__/
+.env
